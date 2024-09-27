@@ -1,11 +1,11 @@
-# Proyecto Web replica San fernando
+# Proyecto Web replica San fernando Responsivo
 Tecnologias usadas:
 
 - Html
 - Css
 - JavaScript
 - ReactJs
-- 
+
 # Ejemplos de la aplicación
 
 <div style="display: flex; gap: 10px; justify-content: center;">
